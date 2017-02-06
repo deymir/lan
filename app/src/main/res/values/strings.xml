@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TextView on WCLActivity  -->
+    <string name="warning">Ovo je diferencijalna dijagnoza za prethodno odabrane simptome. Ona nije 100% točna. U slučaju da imate navedene simptome molimo Vas obratite se liječniku.</string>
+
+    <!--Text on the Butons in HorizontalScrollView in MainActivity -->
+    <string name="general_symptoms">Opći simptomi</string>
+    <string name="head_area">Područje glave</string>
+    <string name="neck_area">Područje vrata</string>
+    <string name="trunk_area">Područje prsa</string>
+    <string name="abdomen_area">Područje abdomena</string>
+    <string name="genital_area">Genitalno područje</string>
+    <string name="arms_area">Područje ruku</string>
+    <string name="legs_area">Područje nogu</string>
+    
+    <!--TextView on ResultActivity -->
+    <string name="textview_result_activity">Odabrali ste sljedeće simptome:</string>
+</resources>
